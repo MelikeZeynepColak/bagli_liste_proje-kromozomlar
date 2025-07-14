@@ -1,0 +1,3 @@
+Merhabalar hocam, ödevimle ilgili belirtmek istediğim şey: 
+  Mutasyon ya da çaprazlama yaparken verdiğiniz parametreleri teker teker girip enter tuşuna basmanız.
+  Aksi takdirde(iki parametreyi de tek seferde girerseniz), verdiğiniz parametreleri doğru algılamayacaktır.Teşekkürler..
